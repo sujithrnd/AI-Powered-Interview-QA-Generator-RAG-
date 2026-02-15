@@ -4,6 +4,8 @@ This is Generative AI powered RAG tool for uploadin gany document and then it wi
 
 <img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/b561a360-347e-4715-8149-71cbe8e74910" />
 
+<img width="1181" height="597" alt="image" src="https://github.com/user-attachments/assets/28e0b3d3-5aaf-4238-b2a0-b10f1ca95fbe" />
+
 ### How to run?
 
 
